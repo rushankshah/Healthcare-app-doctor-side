@@ -1,7 +1,6 @@
 # Healthcare app Doctor
 
-Healthcare app Doctor side
-
+A doctor side healthcare app. An extension of my previous patient side app with features like QR Scanning and authentication on web page.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
